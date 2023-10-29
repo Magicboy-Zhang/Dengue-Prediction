@@ -4,12 +4,12 @@ This is the project for a course named 'MH6804-PYTHON FOR DATA ANALYSIS' from Fi
 
 ### Checklist:
   - Basic Objectives:
-    - [ ] preprocessing
+    - [x] preprocessing
           
     - Linear Model
-      - [ ] Regular Linear Model
-      - [ ] Ridge
-      - [ ] Lasso
+      - [x] Regular Linear Model
+      - [x] Ridge
+      - [x] Lasso
             
     - Tree-based model
       - [ ] Decision Tree
