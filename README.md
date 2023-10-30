@@ -1,11 +1,10 @@
-# Dengue-Prediction
-# 登革热病例数量预测
+# Dengue-Prediction 登革热病例数量预测
 
 This is the project for a course named 'MH6804-PYTHON FOR DATA ANALYSIS' from Fintech Master program of NTU.
 这是一个叫做‘MH6804 Python数据分析’的南洋理工大学金融科技硕士专业的项目。
 
-### Checklist:
-### 清单：
+### Checklist 清单:
+
   - Basic Objectives 基本目标:
     - [x] preprocessing 数据预处理
    
