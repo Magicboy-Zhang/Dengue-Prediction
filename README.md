@@ -17,7 +17,7 @@ This is the project for a course named 'MH6804-PYTHON FOR DATA ANALYSIS' from Fi
     - Tree-based model 树模型
       - [ ] Decision Tree 决策树
       - [ ] Random Forest 随机森林
-      - [ ] XGBoost 
+      - [x] XGBoost 
           
   - Optional Objectives 可选目标:
     - [ ] Train a model to fill the missing values 为有大量缺失值的特征训练模型以填补缺失值
