@@ -34,8 +34,8 @@ This is the project for a course named 'MH6804-PYTHON FOR DATA ANALYSIS' from Fi
 ##### 原始数据所有的特征：
 
 ##### 城市及时间：
-<span style="color:blue">City</span>: 城市，分别是sj圣胡安，波多黎各首都；iq伊基托斯，秘鲁东北部城市
-<span style="color:blue">Year</span>: 数据记录时的年份
+<font color="blue">City</font>: 城市，分别是sj圣胡安，波多黎各首都；iq伊基托斯，秘鲁东北部城市
+<font color="blue">Year</font>: 数据记录时的年份
 <span style="color:blue">Weekofyear</span>: 数据记录时的当年的周数
 <span style="color:blue">Week_start_date</span>: 数据记录时的具体时间
 
