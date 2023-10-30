@@ -14,9 +14,11 @@ This is the project for a course named 'MH6804-PYTHON FOR DATA ANALYSIS' from Fi
     - Tree-based model
       - [ ] Decision Tree
       - [ ] Random Forest
+      - [ ] XGBoost
           
   - Optional Objectives:
-    - [ ] Training a model to fill the missing values
+    - [ ] Train a model to fill the missing values
+    - [ ] Consider drop column 'ndvi_ne' since it's highly correlated with other features but has most missing values
 
 ### Logs
 
