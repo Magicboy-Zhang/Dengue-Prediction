@@ -8,6 +8,8 @@ This is the project for a course named 'MH6804-PYTHON FOR DATA ANALYSIS' from Fi
 ### 清单：
   - Basic Objectives 基本目标:
     - [x] preprocessing 数据预处理
+   
+    - [ ] KNN K最近邻
           
     - Linear Model 线性模型
       - [x] General Linear Model 一般线性模型
