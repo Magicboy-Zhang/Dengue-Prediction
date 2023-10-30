@@ -25,7 +25,7 @@ This is the project for a course named 'MH6804-PYTHON FOR DATA ANALYSIS' from Fi
 
 ### Data
 
-### Modelling
+### Modeling
 
 ### Results
 
