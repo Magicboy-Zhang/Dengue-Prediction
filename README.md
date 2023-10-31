@@ -105,7 +105,7 @@ In total, three new CSV files are generated:
 生成非标准化的数据集基本遵循相同的流程，只是并未在最后阶段进行标准化。
 
 总共生成三个新的csv文件：
-  - label_drop_na_dengue.csv 删除了所有缺失值数据的包含了预测变脸的数据
+  - label_drop_na_dengue.csv 删除了所有缺失值数据的包含了预测变量的数据
   - scaled_feature_drop_na_dengue.csv 删除了所有缺失值数据并对所有特征标准化的数据
   - feature_drop_na_dengue.csv 删除了所有缺失值数据并未对所有特征标准化的数据
 
